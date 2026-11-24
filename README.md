@@ -1,10 +1,10 @@
 # Term Project: Turkish-Inspired Programming Language
 
 ## Group Members & Student IDs
-* **[Rozerin Yaşar]** - [230315082]
-* **[Cavit Can Key]** - [230316030]
-* **[Azize Görür]** - [220316018]
-* **[Yiğit Kızıldağ]** - [230316021]
+* **[Rozerin Yaşar]**
+* **[Cavit Can Key]**
+* **[Azize Görür]**
+* **[Yiğit Kızıldağ]**
 
 ---
 
